@@ -1,0 +1,33 @@
+h1{
+color: white;
+background-color:black;
+}
+h2{
+    color:white;
+    background-color: black;
+}
+p
+{
+    text-align: left;
+    background-color: black;
+}
+h1{
+     text-align: center;
+     background-color: black;
+}
+#novel
+{
+    background-color: black;
+}
+.TextColor,h1,p,h2,h3 
+{
+    color:white;
+    font-family: aquarespace;
+}
+.library button
+{
+    text-align: left;
+}
+button{
+    background-color: aqua;
+}
