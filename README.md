@@ -1,3 +1,3 @@
 # NOVEL-NAGAR
-this is my first webiste <br>
-author - Almas Fatima
+This is my first Website <br>
+Author - Almas Fatima
